@@ -5,4 +5,5 @@
 - hq-bot
 
 ## Field agents  (edited from a laptop)
+- ranyaa06
 - securinets-captain
