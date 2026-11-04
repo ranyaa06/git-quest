@@ -7,3 +7,4 @@ passphrase: h1st0ry-n3v3r-f0rg3ts
 
 
 gadget: mayhemch ya bro
+motto: Hack fast, defend faster
